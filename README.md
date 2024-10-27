@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science student from the Czech Republic</h3>
 
 
-<h3 align="center">📫 How to reach me samsti@email.cz</h3>
+<h3 align="center">📫 How to reach me: <b></b>samsti@email.cz</b></h3>
 
 
 
