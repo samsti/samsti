@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">Computer Science student from the Czech Republic</h3>
+<h2>Computer Science student building practical software with React, TypeScript, and .NET. Focused on real-world apps and clean code.</h3>
 
 
-<h3 align="center">📫 How to reach me: <b></b>samsti@email.cz</b></h3>
 
 
 
